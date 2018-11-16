@@ -3,9 +3,9 @@
 Scrapes youtube for video links
 
 
+# Setup
 
-
-First thing you need to is to install python and pip https://www.makeuseof.com/tag/install-pip-for-python/
+Install python and pip https://www.makeuseof.com/tag/install-pip-for-python/
 
 Go to terminal and type following commands
 
