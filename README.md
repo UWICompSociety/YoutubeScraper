@@ -36,6 +36,12 @@ Now install requirements
 (venv)$  pip install -r requirements.txt
 ```
 
+Now activate kernel
+
+```
+(venv)$  ipython kernel install --user --name=webscrape
+```
+
 Open Notebook
 
 ```
