@@ -27,21 +27,19 @@ $ virtualenv venv
 
 Activate virtual environment
 
+On Unix
 ```
 $ source venv/bin/activate
+```
+On Windows
+```
+$ venv\Scripts\activate
 ```
 Now install requirements
 
 ```
 (venv)$  pip install -r requirements.txt
 ```
-
-Now activate kernel
-
-```
-(venv)$  ipython kernel install --user --name=webscrape
-```
-
 Open Notebook
 
 ```
